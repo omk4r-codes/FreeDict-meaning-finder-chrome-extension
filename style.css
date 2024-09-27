@@ -1,0 +1,18 @@
+body{
+    height: 300px;
+    width: 300px;
+    justify-content: center;
+}
+
+p{
+    text-align: center;
+}
+#meaningTag{
+    margin: auto 10px;
+    padding: 10px;
+    /* border-radius: 6px;
+    border: 1px solid orangered; */
+    font-size: 22px;
+    color: blue;
+    /* text-align: center; */
+}
